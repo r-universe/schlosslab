@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mikropml"]
+	path = mikropml
+	url = https://github.com/schlosslab/mikropml
+	shallow = true
+	registered = true
+[submodule "schtools"]
+	path = schtools
+	url = https://github.com/schlosslab/schtools
+	shallow = true
+	registered = true

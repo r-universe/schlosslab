@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mikropml",
+    "oncran": true
+  },
+  {
+    "package": "schtools",
+    "oncran": true
+  }
+]
