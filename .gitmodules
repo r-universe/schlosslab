@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "clustur"]
+	path = clustur
+	url = https://github.com/schlosslab/clustur
 [submodule "mikropml"]
 	path = mikropml
 	url = https://github.com/schlosslab/mikropml
