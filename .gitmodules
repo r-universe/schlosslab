@@ -8,6 +8,3 @@
 [submodule "mikropml"]
 	path = mikropml
 	url = https://github.com/schlosslab/mikropml
-[submodule "schtools"]
-	path = schtools
-	url = https://github.com/schlosslab/schtools
